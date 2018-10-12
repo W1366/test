@@ -5,3 +5,8 @@ branch B vim
 branch A vim
 git push
 git add
+branch master vim
+分支一个vim
+amend 
+alter
+
