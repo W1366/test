@@ -2,5 +2,6 @@ hello word
 all over the world
 hello china
 branch B vim
-branch master vim
 branch A vim
+git push
+git add
